@@ -8,3 +8,5 @@ Prueba de concepto: (https://github.com/BrianLeoGoldman/CooperAR-Doc/wiki/PoC)
 
 Entrega 1: (https://github.com/BrianLeoGoldman/CooperAR-Doc/wiki/Entrega-1)
 
+Entrega 2: (https://github.com/BrianLeoGoldman/CooperAR-Doc/wiki/Entrega-2)
+
