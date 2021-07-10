@@ -10,3 +10,7 @@ Entrega 1: (https://github.com/BrianLeoGoldman/CooperAR-Doc/wiki/Entrega-1)
 
 Entrega 2: (https://github.com/BrianLeoGoldman/CooperAR-Doc/wiki/Entrega-2)
 
+Entrega 3: (https://github.com/BrianLeoGoldman/CooperAR-Doc/wiki/Entrega-3)
+
+Entrega 4: (https://github.com/BrianLeoGoldman/CooperAR-Doc/wiki/Entrega-4)
+
